@@ -12,6 +12,7 @@
   "dependencies": {
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
+    "superstruct": "^2.0.2",
     "use-immer": "^0.11.0"
   },
   "devDependencies": {
